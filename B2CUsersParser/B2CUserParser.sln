@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2CUserParser", "B2CUserParser\B2CUserParser.csproj", "{2E60FAFD-E230-4945-AB5B-C7536FB366EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E60FAFD-E230-4945-AB5B-C7536FB366EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E60FAFD-E230-4945-AB5B-C7536FB366EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E60FAFD-E230-4945-AB5B-C7536FB366EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E60FAFD-E230-4945-AB5B-C7536FB366EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08811A41-03E0-46B1-8018-69F2094FFAB0}
+	EndGlobalSection
+EndGlobal
